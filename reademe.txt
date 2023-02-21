@@ -1,2 +1,0 @@
-需要pytorch1.0
-在config修改自己的参数，直接运行train就行了，然后在visdom查看训练效果。
